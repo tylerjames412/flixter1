@@ -1,4 +1,3 @@
-# flixter1
 # Flix
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
@@ -9,7 +8,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x] (10pts) User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
@@ -24,12 +22,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-`
 
-<img src="http://g.recordit.co/ahdnIhbF0l.gif" 
+<img src="https://github.com/tylerjames412/flixter1/blob/main/ahdnIhbF0l.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Had challenges with certain build ups in the program. Main problem was trying to run Json part of the app
 
 ### Open-source libraries used
 
